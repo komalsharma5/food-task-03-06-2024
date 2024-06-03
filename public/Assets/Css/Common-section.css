@@ -1,0 +1,7 @@
+.common-section{
+    background: url('/../Assets/img/banner-02.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 100px 0px;
+    background-size: cover;
+}

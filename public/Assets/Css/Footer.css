@@ -1,0 +1,22 @@
+.bg_color {
+    background-color: #ffe9ec;
+}
+
+.common_sec {
+    background-image: url("../Img/banner-02.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0px;
+}
+
+.footer_icon {
+    left: 165px;
+
+}
+
+.food_category {
+    background-color: rgb(242, 23, 23);
+    margin: 20px;
+}
+
